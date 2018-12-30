@@ -1,6 +1,6 @@
 # SilentGhost
 # livehackfb
-#
+# 2 juta Wordlist Password
 bruteforce attack on facebook account script in python
 
 ## Install Requirements(Linux)
